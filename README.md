@@ -8,8 +8,8 @@ library is not available).
 Based on observing the traffic of a device my university legally owns.
 
 - `protocolo.tex`: observed command sequence (Spanish)
-- `captura.py`: records raw data from the amplifier
-- `graficar.py`: plots a captured file
+- `capture.py`: records raw data from the amplifier
+- `plot.py`: plots a captured file
 
 Not affiliated with g.tec. Not a medical device.
 Test with a known signal before trusting the output.
