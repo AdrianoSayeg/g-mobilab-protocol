@@ -1,0 +1,5 @@
+*.bin
+*.dll
+__pycache__/
+*.aux
+*.log
