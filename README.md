@@ -7,7 +7,7 @@ library is not available).
 
 Based on observing the traffic of a device my university legally owns.
 
-- `protocolo.tex`: observed command sequence (Spanish)
+- `protocol.tex`: observed command sequence (Spanish)
 - `capture.py`: records raw data from the amplifier
 - `plot.py`: plots a captured file
 
